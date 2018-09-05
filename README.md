@@ -33,10 +33,10 @@ PC: 4000
 
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
-![Actividad 1](/reto 3.1.png)
+![Actividad 1](/reto3.1.png)
 
 ![Actividad 2](/reto3.2.png)
 
-![Actividad 3](/reto 3.3.png)
+![Actividad 3](/reto3.3.png)
 
 ![Actividad 4](/reto3.4.png)
