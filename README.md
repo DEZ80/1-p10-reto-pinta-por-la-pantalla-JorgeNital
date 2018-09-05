@@ -27,7 +27,7 @@ PC: 4000
 ## Actividad 4: Minidibujo en 3 columnas
 Mínimo 4 filas de altura y 3 columnas distintas.
 ```
-21 43 77 22 00 C8 18 FE
+3E 88 32 85 DD 3E 88 32 85 E5 3E 80 32 85 ED 3E 08 32 85 F5 3E 88 32 87 DD 3E 80 32 87 E5 3E 80 32 87 ED 3E 88 32 87 F5 FD 3E 88 32 89 DD 3E 80 32 89 E5 3E 08 32 89 ED 3E 80 32 89 F5 18 FE
 ```
 PC: 4000
 
